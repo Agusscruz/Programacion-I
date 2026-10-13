@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "nombre": "Micaela Carolina",
+        "dni": "43933610",
+        "telefono": "3624064642",
+        "correo_electronico": "canterosmicaela29@gmail.com",
+        "tipo_cliente": "le gusta las semillas",
+        "nota": "es profesora"
+    },
+    {
+        "id": 2,
+        "nombre": "Agustina Cruz",
+        "dni": "44983675",
+        "telefono": "3625191195",
+        "correo_electronico": "aguscruz@gmail.com",
+        "tipo_cliente": "No le gustan el abono sintetico",
+        "nota": "Es jardinera"
+    }
+]

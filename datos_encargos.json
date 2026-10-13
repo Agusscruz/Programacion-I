@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "cliente": "Micaela Carolina",
+        "provedor": "tunaz",
+        "producto_encargado": "tunas",
+        "cantidad": 20,
+        "stock": 15,
+        "sena_recibida": 500.0,
+        "fecha_pedido": "19/06/2026",
+        "fecha_llegada": "21/12/2026",
+        "estado": "Cancelado"
+    }
+]

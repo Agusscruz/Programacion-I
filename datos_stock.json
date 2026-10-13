@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "nombre": "Kalanchoe",
+        "nombre_cientifico": "Kalanchoe blossfeldiana",
+        "categoria": "aromatica",
+        "sector": "interior",
+        "precio": 500.0,
+        "cuidados": "sol pleno",
+        "stock": 11
+    },
+    {
+        "id": 2,
+        "nombre": "Lavanda",
+        "nombre_cientifico": "Lavanda angustifolia",
+        "categoria": "arom\u00e1tica",
+        "sector": "exterior",
+        "precio": 3500.0,
+        "cuidados": "sol pleno",
+        "stock": 30
+    },
+    {
+        "id": 3,
+        "nombre": "Lengua de suegra",
+        "nombre_cientifico": "Sansevieria trifasciata",
+        "categoria": "Suculenta",
+        "sector": "interior",
+        "precio": 4500.5,
+        "cuidados": "sol parcial",
+        "stock": 50
+    },
+    {
+        "id": 4,
+        "nombre": "Clavel",
+        "nombre_cientifico": "Dianthus caryophyllus",
+        "categoria": "Ornamental",
+        "sector": "exterior",
+        "precio": 2000.0,
+        "cuidados": "riego semanal",
+        "stock": 20
+    },
+    {
+        "id": 5,
+        "nombre": "Romero",
+        "nombre_cientifico": "Salvia rosmarinus",
+        "categoria": "Arom\u00e1tica",
+        "sector": "huerta",
+        "precio": 6000.0,
+        "cuidados": "Riego semanal",
+        "stock": 45
+    }
+]

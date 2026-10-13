@@ -1,0 +1,11 @@
+[
+    {
+        "id": 1,
+        "cliente_comprador": "Micaela Carolina",
+        "cliente_dni": "43933610",
+        "items_vendidos": "Lavanda",
+        "total_venta": 1.0,
+        "forma_pago": "debito",
+        "fecha": "19/06/2026"
+    }
+]

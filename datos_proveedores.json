@@ -1,0 +1,11 @@
+[
+    {
+        "id": 1,
+        "nombre": "Tunaz",
+        "telefono": 3624064642,
+        "correo_electronico": "tunaz@gmail.com",
+        "localidad": "Formosa",
+        "provee_de": "tunas",
+        "fecha_ultimo_pedido": "19/06/2026"
+    }
+]
